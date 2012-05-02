@@ -4,7 +4,6 @@
 	}
 
 	require('functions.php');
-	require('twitter.php');
 
 	$file = "patch.xml";
 	$lBase = "../";

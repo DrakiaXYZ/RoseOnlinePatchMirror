@@ -1,0 +1,8 @@
+RoseOnlinePatchMirror is a simple PHP/C++ application I wrote two years ago to mirror the ROSE Online patch servers locally.
+
+Many years ago, ROSE Online had very unstable update servers, they would continually die mid-update, causing massive lag/trouble in fetching updates. To resolve this issue I decided to mirror all of the patch files on a local LAN box.
+
+This project was never intended for public release, but I've decided I might as well release it. 
+Some slight cleanups will be coming soon, it's been two years since I actually looked at the code, and it's been running non-stop since I started it on Feb 28, 2010: https://twitter.com/#!/ZPRose
+
+Usage instructions will also come with time.
